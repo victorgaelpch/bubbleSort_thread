@@ -1,0 +1,3 @@
+﻿  nucleos.cpp
+C:\Users\victo\source\repos\nucleos\nucleos\nucleos.cpp(6,11): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+  nucleos.vcxproj -> C:\Users\victo\source\repos\nucleos\x64\Debug\nucleos.exe
